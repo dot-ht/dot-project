@@ -1,0 +1,16 @@
+[submodule "chat-ai"]
+ 	path = ai
+ 	url = https://github.com/dot-ht/chat-ai
+ 	branch = main
+[submodule "chat-api"]
+    path = api
+    url = https://github.com/dot-ht/chat-api
+    branch = main
+[submodule "flutter-app"]
+    path = flutter-app
+    url = https://github.com/dot-ht/flutter-app
+    branch = main
+[submodule "web-app"]
+ 	path = web-app
+ 	url = https://github.com/dot-ht/dot-project
+ 	branch = main
